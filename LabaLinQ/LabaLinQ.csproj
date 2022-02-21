@@ -12,5 +12,6 @@
     <Content Include="ForecastCollectionClass.cs" />
     <Content Include="OutputModels.cs" />
     <Content Include="IvalidData.log" />
+    <Content Include="InvalidData.log" />
   </ItemGroup>
 </Project>

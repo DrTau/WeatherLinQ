@@ -21,17 +21,17 @@ public class Program
                         input = sr.ReadLine();
                         forecastList.Add(ForecastEvents.GetClassFromCsvLine(input != null ? input : string.Empty));
                     }
-                    // catch (ArgumentException e)
-                    // {
-                    //     sw.WriteLine($"{e.Message} at element {i}");
-                    // }
-                    // catch (IndexOutOfRangeException)
-                    // {
-                    //     sw.WriteLine($"Elements in index {i} does not have all parametrs");
-                    // }
+                    catch (ArgumentException e)
+                    {
+                        sw.WriteLine($"{e.Message} at element {i}");
+                    }
+                    catch (IndexOutOfRangeException)
+                    {
+                        sw.WriteLine($"Elements in index {i} does not have all parametrs");
+                    }
                     catch (Exception e)
                     {
-                        // sw.WriteLine(e.Message);
+                        sw.WriteLine(e.Message);
                     }
                 }
             }
