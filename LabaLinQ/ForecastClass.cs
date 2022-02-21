@@ -1,5 +1,5 @@
-enum ForecastsTypes { SevereCold, Fog, Hail, Rain, Snow, Storm, Other };
-enum Severity { Severe, Moderate, Light, Heavy };
+enum ForecastsTypes { Cold, Fog, Hail, Rain, Snow, Storm, Other, Precipitation };
+enum Severity { Severe, Moderate, Light, Heavy, UNK, Other };
 
 record class ForecastEvents(string eventID,
                       ForecastsTypes eventType,
@@ -13,12 +13,14 @@ record class ForecastEvents(string eventID,
                       string City,
                       string Country,
                       string State,
-                      string ZipCode)
+                      string ZipCode = "")
 {
 
     public static ForecastEvents GetClassFromCsvLine(string csvString)
     {
-        var data = csvString.Split(',', StringSplitOptions.RemoveEmptyEntries);
+        var data = csvString.Split(',', StringSplitOptions.RemoveEmptyEntries).ToList();
+        if (data.Count < 13)
+            throw new ArgumentException("Invalid data");
         return new ForecastEvents(data[0],
                             (ForecastsTypes)Enum.Parse(typeof(ForecastsTypes), data[1]),
                             (Severity)Enum.Parse(typeof(Severity), data[2]),
