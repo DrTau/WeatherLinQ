@@ -1,0 +1,30 @@
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.exe
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.deps.json
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.runtimeconfig.json
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.dll
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\ref\LabaLinQ.dll
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.pdb
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.csproj.AssemblyReference.cache
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.AssemblyInfoInputs.cache
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.AssemblyInfo.cs
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.csproj.CoreCompileInputs.cache
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.dll
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\ref\LabaLinQ.dll
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.pdb
+C:\Users\user\Google_Drive\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.genruntimeconfig.cache
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.exe
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.deps.json
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.runtimeconfig.json
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.dll
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\ref\LabaLinQ.dll
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\bin\Debug\net6.0\LabaLinQ.pdb
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.csproj.AssemblyReference.cache
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.AssemblyInfoInputs.cache
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.AssemblyInfo.cs
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.csproj.CoreCompileInputs.cache
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.dll
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\ref\LabaLinQ.dll
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.pdb
+C:\Users\drtta\Google Диск\programming\HSE\C#\LabaLinQ\LabaLinQ\obj\Debug\net6.0\LabaLinQ.genruntimeconfig.cache
